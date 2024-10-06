@@ -48,6 +48,6 @@ Es un Entorn de desenvolupament integrat, que vé a ser una eina que permet le s
 [IProg]: https://sites.google.com/itb.cat/entornsprogramacioiprocesos/teoria/t1-introducci%C3%B3
 [pprepo]: https://github.com/damvdev/programacio-entorns-i-processos/blob/main/tema_1/maquina_senzilla.md
 
-[1ProgIntro]: /1ProgIntro/1-0.md
+[1ProgIntro]: /1ProgIntro/1.0.md
 [2DisAlg]: /2DisAlg/2.0.md
 [3ImplAlg]: /3ImplAlg/3.0.md
