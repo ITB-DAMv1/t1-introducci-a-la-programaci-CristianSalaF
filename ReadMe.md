@@ -5,7 +5,7 @@ Continguts treballats a l'aula:
 1. [Git][Github], GitHub i Fitxers
 2. [Introducció a la programació][IProg] ([repo][pprepo])
 
-## [T1.1. Introducció a la programació] [1ProgIntro]
+## [T1.1. Introducció a la programació][1ProgIntro]
 
 ### Per què programar?
 Per afontar reptes diaris, automatitzarlos i fer tasques de forma més eficient. 
